@@ -1,0 +1,4 @@
+1) 3 division: student,teacher, management
+student: marks,attendance,calendar,timetable updates,assignments,announcement,transport,fees,circular,online classes, profile, change password, pfp
+teachers: entering & editing marks,attendance,announcements, giving assignments, take online classes, circulars, official managements,notes
+management:
